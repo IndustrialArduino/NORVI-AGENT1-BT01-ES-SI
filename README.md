@@ -11,5 +11,5 @@ Analog Inputs with 0-10v
 transistor outputs
 DIN-Rail mount
 
-Datasheet:   https://drive.google.com/open?id=1bY3vxti2C6_3Zfa6XLDzHlEXk3qItaGC&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1ed9Rtdk6J9jwmi-RzigKnngR1RWeGqOP&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-agent-1-bt01-es-si-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-agent-1-bt01-es-si-user-guide/
